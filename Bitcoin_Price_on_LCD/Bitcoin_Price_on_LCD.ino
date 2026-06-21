@@ -6,8 +6,8 @@
 int lcdAddress = 0x27;
 LiquidCrystal_I2C lcd(lcdAddress, D1, D2);
 
-const char* ssid = "iPhone 15 Pro Max";
-const char* password = "rredf8smpc";
+const char* ssid = "***************";
+const char* password = "***********";
 const char* host = "min-api.cryptocompare.com";
 const int port = 443;
 
